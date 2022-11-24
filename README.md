@@ -3,4 +3,4 @@
 
 Tech Stack - React.js, Express.js, Node.js, MongoDB Atlas, Bootstrap
 
-View Portfolio - [Linl](https://rudra-patel.netlify.app/)
+View Portfolio - [Link](https://rudra-patel.netlify.app/)
