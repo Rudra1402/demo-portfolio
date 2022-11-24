@@ -1,0 +1,60 @@
+#skill {
+    cursor: pointer;
+    transition: 0.2s all;
+    width: 12rem;
+    padding: 16px;
+    margin: 16px;
+}
+
+#skill:hover {
+    /* box-shadow: 0 0 3px 2px #77b9ff; */
+    scale: 1.035;
+}
+
+#project {
+    cursor: pointer;
+    transition: 0.2s all;
+}
+
+#project:hover {
+    /* box-shadow: 0 0 3px 2px #007bff; */
+    scale: 1.015;
+}
+
+#p-skill {
+    transition: 0.2s all;
+}
+
+#p-skill:hover {
+    background-color: #dc3545;
+    color: white;
+}
+
+#live {
+    letter-spacing: 0.75px;
+}
+
+#f-social a, #in-page a {
+    color: inherit;
+    text-decoration: none;
+    margin: 0 7.5px;
+    font-size: 18px;
+}
+
+#footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+#in-page a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 500px) {
+    #skill {
+        width: 9rem;
+        margin: 6px;
+        padding: 8px;
+    }
+}
